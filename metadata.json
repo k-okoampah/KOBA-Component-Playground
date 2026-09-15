@@ -1,0 +1,6 @@
+{
+  "name": "Personal Component Playground",
+  "description": "A clean, professional developer UI component library and design system playground showcasing reusable React components.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
